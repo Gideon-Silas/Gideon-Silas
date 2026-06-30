@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=36BCF7&lines=Hi+👋,+I'm+Gideon+Silas)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=36BCF7&lines=Hi+👋,+I'm+Gideon+Silas;Data+Scientist;Finance+Graduate;Python+Developer)](https://git.io/typing-svg)
 ## Finance Graduate | Data Science/ML in Training | AI Enthusiast
 
 I'm a Data science student passionate about transforming raw data into meaningful insights. I enjoy data cleaning, exploratory data analysis, machine learning, and building projects with Python. I also share my learning journey and create educational content around data science and finance.
