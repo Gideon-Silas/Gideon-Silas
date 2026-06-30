@@ -1,4 +1,5 @@
-## Hi 👋 My name is Gideon Silas 
+## Hi 👋
+## My name is Gideon Silas 
 ### Finance Graduate | Data Science/ML in Training | AI Enthusiast
 
 I'm a Data science student passionate about transforming raw data into meaningful insights. I enjoy data cleaning, exploratory data analysis, machine learning, and building projects with Python. I also share my learning journey and create educational content around data science, and finance.
@@ -10,7 +11,7 @@ I'm a Data science student passionate about transforming raw data into meaningfu
 
   #### Skill
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,html,css,javascript,mysql" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 #### Connect with me
