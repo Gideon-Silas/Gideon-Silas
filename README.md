@@ -6,7 +6,7 @@ I'm a Data science student passionate about transforming raw data into meaningfu
 - 🌍 Based in Nigeria
 - 📚 Currently learning Machine Learning and Data Science
 - 📫 Email: gideonmondaysilas@gmail.com
-- 💼 Open to internships, freelance projects, and full-time opportunities
+- 💼 Open for internships, freelance projects, and full-time opportunities
 
   ### Skill
 <p align="left">
