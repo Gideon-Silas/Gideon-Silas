@@ -1,16 +1,26 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=36BCF7&lines=Hi+👋,+I'm+Gideon+Silas)](https://git.io/typing-svg)
-## Finance Graduate | Data Science/ML in Training | AI Enthusiast
-
-I'm a Data science student passionate about transforming raw data into meaningful insights. I enjoy data cleaning, exploratory data analysis, machine learning, and building projects with Python. I also share my learning journey and create educational content around data science and finance.
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5000&pause=3000&color=36BCF7&width=600&height=60&lines=Hi%2C+I%27m+Gideon+Silas)](https://git.io/typing-svg)
+## Financial Data Analyst | Data Scientist | FP&A & Corporate Analytics | Proficient in Python, Excel, SQL & Power BI
+My expertise bridges traditional financial analysis (budgeting, credit risk, forecasting) with modern tech infrastructure (Advanced Excel, Power BI, SQL, and Python data manipulation). I specialize in building interactive dashboards and models that help executive teams easily track KPIs, mitigate risk, and maximize net profitability.
 
 - 🌍 Based in Nigeria
-- 📚 Currently learning Machine Learning and Data Science
+- 📚 Currently taking prerequisite courses for MSc. in Financial Engineering at World Quant University 
 - 📫 Email: gideonmondaysilas@gmail.com
 - 💼 Open for internships, freelance projects, and full-time opportunities
 
-  ### Skill
+  ### Skills
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" 
+       alt="Python" width="45" height="45"/>
+
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" 
+       alt="Excel" width="45" height="45"/>
+
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" 
+       alt="SQL" width="45" height="45"/>
+
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" 
+       alt="Power BI" width="45" height="45"/>
 </p>
 
 ### Connect with me
